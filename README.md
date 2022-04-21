@@ -1,6 +1,8 @@
-![KazutoshiYamaguchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KazutoshiYamaguchi&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazutoshiYamaguchi&layout=compact
-)](https://github.com/KazutoshiYamaguchi/github-readme-stats)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KazutoshiYamaguchi&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KazutoshiYamaguchi&theme=onedark&show_icons=true" />
+</p>
 
 <!--
 **KazutoshiYamaguchi/KazutoshiYamaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
