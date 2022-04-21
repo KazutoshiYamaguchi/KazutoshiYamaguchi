@@ -1,5 +1,5 @@
 ![KazutoshiYamaguchi's GitHub stats](https://github-readme-stats.vercel.app/api?username=KazutoshiYamaguchi&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazutoshiYamaguchi
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KazutoshiYamaguchi&layout=compact
 )](https://github.com/KazutoshiYamaguchi/github-readme-stats)
 
 <!--
